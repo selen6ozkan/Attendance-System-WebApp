@@ -1,0 +1,26 @@
+<annotation>
+	<folder>d</folder>
+	<filename>meryem (15).jpeg</filename>
+	<path>C:\Users\SELEN\Desktop\d\meryem (15).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>meryem</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>372</ymin>
+			<xmax>563</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>

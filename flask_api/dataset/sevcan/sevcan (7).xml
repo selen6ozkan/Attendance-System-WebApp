@@ -1,0 +1,26 @@
+<annotation>
+	<folder>d</folder>
+	<filename>sevcan (7).jpeg</filename>
+	<path>C:\Users\SELEN\Desktop\d\sevcan (7).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>896</width>
+		<height>1592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sevcan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>215</xmin>
+			<ymin>260</ymin>
+			<xmax>610</xmax>
+			<ymax>738</ymax>
+		</bndbox>
+	</object>
+</annotation>

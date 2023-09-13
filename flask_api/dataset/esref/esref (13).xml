@@ -1,0 +1,26 @@
+<annotation>
+	<folder>d</folder>
+	<filename>esref (13).jpeg</filename>
+	<path>C:\Users\SELEN\Desktop\d\esref (13).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>927</width>
+		<height>1648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>esref</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>486</ymin>
+			<xmax>683</xmax>
+			<ymax>1158</ymax>
+		</bndbox>
+	</object>
+</annotation>

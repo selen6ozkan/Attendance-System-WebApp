@@ -1,0 +1,26 @@
+<annotation>
+	<folder>d</folder>
+	<filename>rana (33).jpeg</filename>
+	<path>C:\Users\SELEN\Desktop\d\rana (33).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>899</width>
+		<height>1599</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>516</ymin>
+			<xmax>727</xmax>
+			<ymax>1032</ymax>
+		</bndbox>
+	</object>
+</annotation>

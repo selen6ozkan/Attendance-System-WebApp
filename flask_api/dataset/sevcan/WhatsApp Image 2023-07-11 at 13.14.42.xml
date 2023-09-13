@@ -1,0 +1,26 @@
+<annotation>
+	<folder>d</folder>
+	<filename>WhatsApp Image 2023-07-11 at 13.14.42.jpeg</filename>
+	<path>C:\Users\SELEN\Desktop\d\WhatsApp Image 2023-07-11 at 13.14.42.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>896</width>
+		<height>1592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sevcan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>405</ymin>
+			<xmax>655</xmax>
+			<ymax>1061</ymax>
+		</bndbox>
+	</object>
+</annotation>
